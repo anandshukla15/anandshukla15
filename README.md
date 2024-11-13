@@ -1,7 +1,7 @@
 https://github.com/anandshukla15/Anand-Kumar-Shukla/tree/main
 <h1 align="center">Hi 👋, I'm Anand Kumar Shukla</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<h2>2nd year Computer science student at Indian Institute of Information Technology , Bhagalpur</h2>
+<h2>2nd year ECE student at Indian Institute of Information Technology , Bhagalpur</h2>
 https://github.com/anandshukla15/Anand-Kumar-Shukla
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandshukla15&label=Profile%20views&color=0e75b6&style=flat" alt="Anand Kumar Shukla" /> </p>
 <br/>
